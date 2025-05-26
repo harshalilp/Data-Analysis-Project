@@ -1,4 +1,5 @@
 📊 Project Overview
+
 This project showcases a comprehensive data analysis journey using fictional datasets inspired by Zomato’s business model. The goal was to simulate real-world scenarios involving employee records, sales performance, customer orders, and generate key business insights through SQL, Excel, Tableau, and Power BI dashboards.
 
 🧰 Tools & Technologies Used
